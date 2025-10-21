@@ -4,6 +4,9 @@ Dyashin HR Insights is an interactive Streamlit application for exploring HR dat
 
 ---
 
+Streamlit APP link: https://employee-data-analysis.streamlit.app/
+---
+
 ## Features
 
 - **Dashboard**
