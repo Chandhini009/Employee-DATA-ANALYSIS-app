@@ -1,4 +1,4 @@
-# Dyashin HR Insights (Final)- Employees Data Analysis
+# Dyashin HR Insights - Employees Data Analysis and Attrition Prediction
 
 Dyashin HR Insights is an interactive Streamlit application for exploring HR datasets, analyzing workforce trends, and predicting employee attrition using a RandomForest classifier enhanced with SMOTE balancing.
 
